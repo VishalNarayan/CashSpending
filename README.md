@@ -1,6 +1,6 @@
 # CashSpending
 
-<img src="images/appicon.PNG" width="290"> <img src="images/googlesignin.PNG" width="290" border="5"> <img src="images/introscreen.PNG" width="290">
+<kbd><img src="images/appicon.PNG" width="290"> <img src="images/googlesignin.PNG" width="290"></kbd> <img src="images/introscreen.PNG" width="290">
 <img src="images/sheetlist.PNG" width="290"> <img src="images/sheetupdate.PNG" width="290">
 <br>
 <b> Spreadsheets are added straight to your Google Drive. </b>
